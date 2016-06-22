@@ -1,14 +1,28 @@
+name: ScubedCap
+favicon: null
 layout_spectrum: 0.23151436215266585
 typography_spectrum: 0.23546879994682968
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.3781772991642356
-  lightness: 0.5388949681073427
-  saturation: 0.3746459116227925
-  rhythmicContrast: 0.7954796655103564
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-name: Scubedcap
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
+purpose: []
