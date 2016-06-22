@@ -1,0 +1,14 @@
+layout_spectrum: 0.23151436215266585
+typography_spectrum: 0.23546879994682968
+color:
+  brandStrength: 0.3781772991642356
+  lightness: 0.5388949681073427
+  saturation: 0.3746459116227925
+  rhythmicContrast: 0.7954796655103564
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: scubedcap
