@@ -4,7 +4,7 @@
         <description><![CDATA[ScubedCap]]></description>
         <link>https://thegrid.ai/scubedcap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:53:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:53:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scubedcap/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/67b3c11c-eff3-43df-85c1-d1b823f11c94.jpg</link>
             <guid isPermaLink="false">4b4a79c1-6e17-426c-842b-725473f781ba</guid>
             <pubDate>Wed, 22 Jun 2016 17:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mark Stevens]]></title>
+            <description><![CDATA[<article><h1>Mark Stevens</h1><p>Mark A. Stevens is the Managing Partner of S-Cubed Capital. He is a special limited partner and former managing partner at Sequoia Capital, a global venture capital firm based in Menlo Park, CA. Mark joined Sequoia in 1989 as an associate and became a partner in 1993. Prior to Sequoia, he was employed at Intel Corporation from 1982 to 1987 in a variety of sales positions. He began his career as member of the technical staff at Hughes Aircraft Company from 1980 to 1982.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3db8a20-7619-4900-a486-a954c8852d78.jpg"></article>]]></description>
+            <link>https://thegrid.ai/scubedcap/mark-stevens/index.html</link>
+            <guid isPermaLink="false">0c0ef3e2-879d-4d98-ab31-397d415804f7</guid>
+            <pubDate>Sat, 25 Jun 2016 02:53:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Philanthropy]]></title>
@@ -33,13 +40,6 @@
             <link>http://www.nba.com/warriors/news/mark-stevens-joins-ownership-group</link>
             <guid isPermaLink="false">26932ea7-138f-417f-a7e9-ce5210465be5</guid>
             <pubDate>Sat, 25 Jun 2016 02:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Stevens]]></title>
-            <description><![CDATA[<article><h1>Mark Stevens</h1><p>Mark A. Stevens is the Managing Partner of S-Cubed Capital. He is a special limited partner and former managing partner at Sequoia Capital, a global venture capital firm based in Menlo Park, CA. Mark joined Sequoia in 1989 as an associate and became a partner in 1993. Prior to Sequoia, he was employed at Intel Corporation from 1982 to 1987 in a variety of sales positions. He began his career as member of the technical staff at Hughes Aircraft Company from 1980 to 1982.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3db8a20-7619-4900-a486-a954c8852d78.jpg"></article>]]></description>
-            <link>https://thegrid.ai/scubedcap/mark-stevens/index.html</link>
-            <guid isPermaLink="false">0c0ef3e2-879d-4d98-ab31-397d415804f7</guid>
-            <pubDate>Sat, 25 Jun 2016 02:48:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
