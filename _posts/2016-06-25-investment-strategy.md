@@ -1,26 +1,26 @@
 ---
+datePublished: '2016-06-25T02:53:21.262Z'
+sourcePath: _posts/2016-06-25-investment-strategy.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+dateModified: '2016-06-25T02:46:09.486Z'
+title: Investment Strategy
+publisher: null
 description: >-
   S-Cubed Capital manages a globally diversified investment portfolio with the
   goal of achieving superior, long term, risk-adjusted returns.
-datePublished: '2016-06-25T02:28:03.200Z'
-dateModified: '2016-06-25T02:27:55.115Z'
-title: Investment Strategy
-author: []
-sourcePath: _posts/2016-06-25-investment-strategy.md
-authors: []
-publisher: null
+inLanguage: null
+inNav: true
 starred: false
 url: investment-strategy/index.html
 _type: Article
 
 ---
 # Investment Strategy
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95544cf6-4db1-4d57-bb01-72bff4a8f727.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/54c0cb0d483033a83e86f0ef37324b04/croprotate.jpg?cropheight=2994&cropwidth=4523&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F95544cf6-4db1-4d57-bb01-72bff4a8f727.jpg&x=0&y=0)
 
 S-Cubed Capital manages a globally diversified investment portfolio with the goal of achieving superior, long term, risk-adjusted returns.
 
