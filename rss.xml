@@ -4,7 +4,7 @@
         <description><![CDATA[ScubedCap]]></description>
         <link>https://thegrid.ai/scubedcap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:53:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:53:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scubedcap/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/scubedcap/mark-stevens/index.html</link>
             <guid isPermaLink="false">0c0ef3e2-879d-4d98-ab31-397d415804f7</guid>
             <pubDate>Sat, 25 Jun 2016 02:48:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Investment Strategy]]></title>
-            <description><![CDATA[<article><h1>Investment Strategy</h1><p>S-Cubed Capital manages a globally diversified investment portfolio with the goal of achieving superior, long term, risk-adjusted returns.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/54c0cb0d483033a83e86f0ef37324b04/croprotate.jpg?cropheight=2994&cropwidth=4523&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F95544cf6-4db1-4d57-bb01-72bff4a8f727.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/scubedcap/investment-strategy/index.html</link>
-            <guid isPermaLink="false">e95bfe7e-8d53-4977-87ae-a4b9fba10486</guid>
-            <pubDate>Sat, 25 Jun 2016 02:28:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
