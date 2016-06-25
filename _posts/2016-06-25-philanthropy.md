@@ -10,10 +10,12 @@ description: >-
   and blessed that we find ourselves, at a relatively young age, to be able to
   give our time, treasure and talent to a variety of philanthropic organizations
   in a substantial manner.
-datePublished: '2016-06-25T02:27:38.558Z'
-dateModified: '2016-06-25T02:27:30.306Z'
+datePublished: '2016-06-25T02:53:09.177Z'
+dateModified: '2016-06-25T02:53:00.225Z'
 title: Philanthropy
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-25-philanthropy.md
 authors: []
 publisher: null
