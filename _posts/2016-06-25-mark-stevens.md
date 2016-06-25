@@ -1,4 +1,9 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
 description: >-
   Mark A. Stevens is the Managing Partner of S-Cubed Capital. He is a special
   limited partner and former managing partner at Sequoia Capital, a global
@@ -7,18 +12,16 @@ description: >-
   at Intel Corporation from 1982 to 1987 in a variety of sales positions. He
   began his career as member of the technical staff at Hughes Aircraft Company
   from 1980 to 1982.
-dateModified: '2016-06-25T02:47:46.258Z'
-datePublished: '2016-06-25T02:47:52.430Z'
+datePublished: '2016-06-25T02:48:50.844Z'
+dateModified: '2016-06-25T02:48:49.696Z'
 title: Mark Stevens
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3db8a20-7619-4900-a486-a954c8852d78.jpg
-starred: false
 sourcePath: _posts/2016-06-25-mark-stevens.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: mark-stevens/index.html
+_type: Article
 
 ---
 # Mark Stevens
