@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
@@ -10,8 +10,8 @@ description: >-
   and blessed that we find ourselves, at a relatively young age, to be able to
   give our time, treasure and talent to a variety of philanthropic organizations
   in a substantial manner.
-datePublished: '2016-06-25T02:27:21.087Z'
-dateModified: '2016-06-25T02:27:14.371Z'
+datePublished: '2016-06-25T02:27:38.558Z'
+dateModified: '2016-06-25T02:27:30.306Z'
 title: Philanthropy
 author: []
 sourcePath: _posts/2016-06-25-philanthropy.md
@@ -19,7 +19,7 @@ authors: []
 publisher: null
 starred: false
 url: philanthropy/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Philanthropy
