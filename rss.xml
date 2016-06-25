@@ -4,7 +4,7 @@
         <description><![CDATA[ScubedCap]]></description>
         <link>https://thegrid.ai/scubedcap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:28:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scubedcap/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/67b3c11c-eff3-43df-85c1-d1b823f11c94.jpg</link>
             <guid isPermaLink="false">4b4a79c1-6e17-426c-842b-725473f781ba</guid>
             <pubDate>Wed, 22 Jun 2016 17:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<article><h1>About Us</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d3fb17e3ec7d7b1d0cd381a16772b27/croprotate.jpg?cropheight=3649&cropwidth=5472&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7478b9a7-1901-49b3-aa1a-dbda212d195d.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/scubedcap/about-us/index.html</link>
+            <guid isPermaLink="false">c4906089-14d4-47e0-b4e9-83a5669187bc</guid>
+            <pubDate>Sat, 25 Jun 2016 02:28:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Investment Strategy]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/scubedcap/philanthropy/index.html</link>
             <guid isPermaLink="false">2c05224d-1be8-4223-a456-7f0b2efcc220</guid>
             <pubDate>Sat, 25 Jun 2016 02:27:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<article><h1>About Us</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4d3fb17e3ec7d7b1d0cd381a16772b27/croprotate.jpg?cropheight=3649&cropwidth=5472&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7478b9a7-1901-49b3-aa1a-dbda212d195d.jpg&x=0&y=0"></article>]]></description>
-            <link>https://thegrid.ai/scubedcap/about-us/index.html</link>
-            <guid isPermaLink="false">c4906089-14d4-47e0-b4e9-83a5669187bc</guid>
-            <pubDate>Wed, 22 Jun 2016 17:25:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
