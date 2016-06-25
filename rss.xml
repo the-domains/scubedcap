@@ -4,7 +4,7 @@
         <description><![CDATA[ScubedCap]]></description>
         <link>https://thegrid.ai/scubedcap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 02:55:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2016 02:57:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scubedcap/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/scubedcap/philanthropy/index.html</link>
             <guid isPermaLink="false">2c05224d-1be8-4223-a456-7f0b2efcc220</guid>
             <pubDate>Sat, 25 Jun 2016 02:53:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mark Stevens]]></title>
-            <description><![CDATA[<article><h1>Mark Stevens</h1><p>Mark Stevens - #1011 Billionaires, #375 Forbes 400, #366 RTRL, #1074 Real-Time Billionaires</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/29ce59db34d1291eb900b8bbfdecbc42/noop.jpg?input=http%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fpeople%2Fmark-stevens_416x416.jpg"></article>]]></description>
-            <link>http://www.forbes.com/profile/mark-stevens/</link>
-            <guid isPermaLink="false">444ae8f9-5ab3-46af-bee1-e0881a86ff3c</guid>
-            <pubDate>Sat, 25 Jun 2016 02:52:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
