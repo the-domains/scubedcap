@@ -1,22 +1,25 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
 description: >-
   We are proud to join Warren Buffett, Bill and Melinda Gates and the others who
   have committed to the Giving Pledge. My wife, Mary, and I feel very fortunate
   and blessed that we find ourselves, at a relatively young age, to be able to
   give our time, treasure and talent to a variety of philanthropic organizations
   in a substantial manner.
-dateModified: '2016-06-25T02:15:48.038Z'
-datePublished: '2016-06-25T02:16:08.818Z'
+datePublished: '2016-06-25T02:27:21.087Z'
+dateModified: '2016-06-25T02:27:14.371Z'
 title: Philanthropy
 author: []
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cd1fea6-bf3b-4c97-b314-43ae8c705a5f.jpg
-starred: false
 sourcePath: _posts/2016-06-25-philanthropy.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+authors: []
+publisher: null
+starred: false
+url: philanthropy/index.html
+_type: WebPage
 
 ---
 # Philanthropy
