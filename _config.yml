@@ -1,19 +1,4 @@
-name: ScubedCap
-favicon: null
-layout_spectrum: 0.23151436215266585
-typography_spectrum: 0.23546879994682967
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.23546879994682968
 color:
   brandColors:
     - '#446adb'
@@ -25,4 +10,19 @@ color:
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23151436215266585
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ScubedCap
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
